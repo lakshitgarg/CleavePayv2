@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CleavePayLogin</string>
+    <string name="facebook_app_id">582891605234272</string>
+    <string name="title_activity_member">MemberActivity</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

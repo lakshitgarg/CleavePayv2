@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\093b34049d6aeef01f942bdc3d12754eb6234834\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\HP\Desktop\cleavepayv1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1890d75694b4429b23c17883b8382840b692bd7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\Desktop\cleavepayv1.1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ece6792c2ed53bf86883a48f394844ac4690d4e3">
+        <dex dex="C:\Users\HP\Desktop\cleavepayv1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_13a682cb69ac4ec33b7bab66da73d797da2d1988\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\Desktop\cleavepayv1.1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\HP\Desktop\cleavepayv1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6baf91122d070bb6e9963d4376345449c8149223\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\13f3b004310ad61796d6ef9acbd1e24510349f8f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\HP\Desktop\cleavepayv1.1\app\build\intermediates\pre-dexed\debug\classes_563e7b78da871b22111705436680c64add3505ce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\13f3b004310ad61796d6ef9acbd1e24510349f8f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\HP\Desktop\cleavepayv1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_563e7b78da871b22111705436680c64add3505ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\a4e736f745bcb47978287bf0d9ba36f2b1879645\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\HP\Desktop\cleavepayv1.1\app\build\intermediates\pre-dexed\debug\classes_006cf24022a75539f2fdbba77e9e4fcf24ffe7bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\cleavepayv1.1\app\libs\GenAsync.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f5e48bcb980aa260360949d8c5bc5b348359ee2">
+        <dex dex="C:\Users\HP\Desktop\cleavepayv1.1\app\build\intermediates\pre-dexed\debug\GenAsync.1.2_386e71c5740bedf1bfc29a1c21db9252fa4b06f0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\a4e736f745bcb47978287bf0d9ba36f2b1879645\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\HP\Desktop\cleavepayv1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_006cf24022a75539f2fdbba77e9e4fcf24ffe7bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\093b34049d6aeef01f942bdc3d12754eb6234834\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\HP\Desktop\cleavepayv1.1\app\build\intermediates\pre-dexed\debug\classes_1890d75694b4429b23c17883b8382840b692bd7f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\Desktop\cleavepayv1.1\app\libs\MD5Simply.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="46b0ec4fa70168d8020408d330cac47d1e95926b">
+        <dex dex="C:\Users\HP\Desktop\cleavepayv1.1\app\build\intermediates\transforms\dex\debug\folders\1000\2\MD5Simply_892715c501200f0f4f0aee0954c15ae8413297ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\Desktop\cleavepayv1.1\app\libs\MD5Simply.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="46b0ec4fa70168d8020408d330cac47d1e95926b">
+        <dex dex="C:\Users\HP\Desktop\cleavepayv1.1\app\build\intermediates\pre-dexed\debug\MD5Simply_892715c501200f0f4f0aee0954c15ae8413297ed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\Desktop\cleavepayv1.1\app\libs\GenAsync.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f5e48bcb980aa260360949d8c5bc5b348359ee2">
+        <dex dex="C:\Users\HP\Desktop\cleavepayv1.1\app\build\intermediates\transforms\dex\debug\folders\1000\2\GenAsync.1.2_386e71c5740bedf1bfc29a1c21db9252fa4b06f0\classes.dex" />
+    </item>
+
+</items>
